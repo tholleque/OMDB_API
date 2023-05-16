@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\OMDB_API.props" />
+</Project>

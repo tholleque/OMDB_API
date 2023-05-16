@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "fJMFLpJYftAYdBOEB6JycI722ZDxbj4zYG5yRtDB+LpA52HS6JSEeIB5FxFCs2CQSEMfXzXKemxDDrUz9MzlBQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\timot\\GC\\C# Repositories\\OMDB_API\\OMDB_API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\timot\\.nuget\\packages\\restsharp\\110.2.0\\restsharp.110.2.0.nupkg.sha512",
+    "C:\\Users\\timot\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\timot\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\timot\\.nuget\\packages\\system.text.json\\7.0.2\\system.text.json.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
